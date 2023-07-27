@@ -27,4 +27,3 @@ def check_text(command: str, text: str) -> bool:
 
 if __name__ == '__main__':
     doctest.testmod(verbose=True)
-
