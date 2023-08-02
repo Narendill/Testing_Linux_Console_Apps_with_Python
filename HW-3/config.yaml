@@ -1,0 +1,6 @@
+TST: /home/user/tst
+OUT: /home/user/out
+FOLDER1: /home/user/folder1
+COUNT_FILES: 5
+SIZE_FILE: 1M
+ARX_TYPE: -tzip
