@@ -1,0 +1,11 @@
+TST: /home/user2/tst
+OUT: /home/user2/out
+FOLDER1: /home/user2/folder1
+COUNT_FILES: 3
+SIZE_FILE: 1M
+ARX_TYPE: -t7z
+PASSWORD: '2222'
+USERNAME: user2
+HOST: 0.0.0.0
+PACKNAME: p7zip-full.deb
+UPLOAD_ADDRESS: /home/user2
